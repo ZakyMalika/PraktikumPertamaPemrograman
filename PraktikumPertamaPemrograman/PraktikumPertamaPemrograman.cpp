@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {//Begin
     //numeric nJejari, nLuas
-    float nJejari, nLuas;
+    float nJejari, nLuas ;
     //display 'masukan jejari= '
     cout << "masukan jejari =";
     //accept nJejari
