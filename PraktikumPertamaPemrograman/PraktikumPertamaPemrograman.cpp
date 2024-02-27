@@ -18,11 +18,19 @@ int main()
     cout << "Luasnya =" << nLuas;
 
     //NUMERIC nPanjang, nLebar, nLuas
+    int nPanjang, nLebar;
     //display 'Masukan Panjang= '
+    cout << "masukan panjang=";
     //accept nPanjang
+    cin >> nPanjang;
     //display 'masukan Lebar= '
+    cout << "masukan lebar=";
     //accept nLebar
+    cin >> nLebar;
     //compute nLuas = nPanjang * nLebar
+    nLuas = nPanjang * nLebar;
     //display 'luasnya = ' + nLuas
+    cout << "Luasnya =" << nLuas << endl;
+
 
 }//End
