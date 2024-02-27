@@ -17,5 +17,12 @@ int main()
     //display 'Luasnya= ' + nLuas
     cout << "Luasnya =" << nLuas;
 
+    //NUMERIC nPanjang, nLebar, nLuas
+    //display 'Masukan Panjang= '
+    //accept nPanjang
+    //display 'masukan Lebar= '
+    //accept nLebar
+    //compute nLuas = nPanjang * nLebar
+    //display 'luasnya = ' + nLuas
 
 }//End
